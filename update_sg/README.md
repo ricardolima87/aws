@@ -1,0 +1,1 @@
+Basic Script for Change Your IP on SG for SSH Access, in case you use Dynamic IP ISPs.
